@@ -1,0 +1,13 @@
+<suite name="new tours demoaut" >
+  <test name="login test rahuls" >
+    <classes>
+       <class name="testngsuite.login" />
+    </classes>
+  </test>
+ 
+ <test name="links test rahuls" >
+    <classes>
+       <class name="testngsuite.links" />
+    </classes>
+  </test>
+</suite>
